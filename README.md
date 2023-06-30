@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GraMmuLa. I am 17 years old and I've finally finished educating at school.
 
-- 👀 I’m interested in programming in C++ and C#.
-- I like to write web-sites by HTML and CSS3 using also SASS.
+- 👀 I’m interested in programming with C++ and C#.
+- I like to write web-sites with HTML and CSS3 using also SASS.
 - I know how to work with databases and Microsoft Management Studio.
 
 - 🌱 I’m currently learning everything of base programming.
