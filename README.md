@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GraMmuLa. I am 16 years old and I still go to school.
+- 👋 Hi, I’m @GraMmuLa. I am 17 years old and I've finally finished educating at school.
 
 - 👀 I’m interested in programming in C++ and C#.
 - I like to write web-sites by HTML and CSS3 using also SASS.
