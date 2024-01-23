@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @GraMmuLa. I am 17 years old and I've finally finished educating at school.
+- 👋 Hi, I’m GraMmuLa. I am 18 years old and I am currently studying at National aviation university in Kyiv.
 
-- 👀 I’m interested in programming with C++ and C#.
-- I like to write web-sites with HTML and CSS3 using also SASS.
-- I know how to work with databases and Microsoft Management Studio.
+- 👀 I’m interested in programming using C++ and C#.
+- I like writing web-sites by HTML and CSS3 using also SASS.
+- I know how to work with databases and Microsoft Management Studio, tried to work with MongoDB.
 
-- 🌱 I’m currently learning everything of base programming.
+- 🌱 I’m currently learning everything about base programming.
 
-- 💞️ I want to discover more for myself. If you have any wishes or criticism
-- write me.
+- 💞️ I want to discover more. If you have any wishes write me.
 - 📫 How to reach me -> https://vk.com/vorogam_smert6 -> telegram - @GraMmuLa098
